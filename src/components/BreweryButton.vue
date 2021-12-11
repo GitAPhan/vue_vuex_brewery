@@ -1,6 +1,6 @@
 <template>
   <div>
-      <!-- button to call get_breweries_button (make axios request) -->
+    <!-- button to call get_breweries_button (make axios request) -->
     <button @click="get_breweries_button">FIND BREWERIES</button>
   </div>
 </template>
